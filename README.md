@@ -11,4 +11,4 @@ Assignment 2 for Chapman University CPSC 408 Database Management. When you run m
 **assignemnt2.sqlite** - SQLite database. Students(StudentId, FirstName, LastName, GPA, Major, FacultyAdviser)
 
 
-**Created by** Aimee Bowen mailto:bowen126@mail.chapman.edu
+**Created by** Aimee Bowen bowen126@mail.chapman.edu
